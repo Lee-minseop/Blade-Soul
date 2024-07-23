@@ -1,1 +1,1 @@
-# Blade&&Soul repository
+# Blade&Soul repository
